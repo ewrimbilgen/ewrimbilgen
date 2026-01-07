@@ -9,6 +9,5 @@ Led platform transformations spanning search & discovery systems, data-intensive
 
 Uses GitHub as a living portfolio for product decision frameworks, API strategy, platform architecture thinking, and hands-on technical validation.
 
-📍 Europe (currently Istanbul)
 
 🔗 LinkedIn: https://www.linkedin.com/in/evrim-bilgen/
